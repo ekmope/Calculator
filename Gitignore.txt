@@ -1,0 +1,12 @@
+# Java
+*.class
+*.jar
+
+# IDE
+.idea/
+*.iml
+bin/
+target/
+
+# 系统文件
+.DS_Store
