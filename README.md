@@ -1,6 +1,6 @@
 # Simple Calculator
 
-一个命令行计算器项目 ez 
+一个命令行计算器项目 ez for Calculator
 
 ## 如何运行
 1. 克隆仓库
